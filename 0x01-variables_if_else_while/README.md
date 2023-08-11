@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THIS IS MY READ ME
+=======
+MY README
+>>>>>>> 6ee99204b5e219cb144449c6e14f90a5d914de4f

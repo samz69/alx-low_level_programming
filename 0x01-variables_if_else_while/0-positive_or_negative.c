@@ -4,8 +4,13 @@
 /*
  * main - entry point
  *
+<<<<<<< HEAD
  * description: false or true validation
  * 
+=======
+ * Description: false or ture validation
+ *
+>>>>>>> 6ee99204b5e219cb144449c6e14f90a5d914de4f
  * Return: 0 (success)
 */
 
