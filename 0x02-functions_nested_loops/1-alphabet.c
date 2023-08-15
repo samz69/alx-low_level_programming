@@ -2,8 +2,9 @@
 #include <unistd.h>
 
 /**
- * print_alphabet - Entry point
- * Return:0
+ * print_alphabet - utilizes on the _putchar function to print alphabet a - z
+ *
+  Return: Always 0 (Succsess)
  */
 
 void print_alphabet(void)
